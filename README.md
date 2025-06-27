@@ -1,10 +1,6 @@
 # 📚 Cursos Alura
 
-Este repositório tem como objetivo documentar meu progresso nos estudos por meio dos cursos da Alura.
-
-Cada curso concluído possui uma pasta própria, seja ele parte de uma formação ou um curso individual.
-
-Dentro de cada pasta, estão registrados os códigos desenvolvidos, as tarefas realizadas e os projetos propostos, com o máximo de detalhamento possível.
+Este repositório tem como objetivo documentar meu progresso nos estudos por meio dos cursos da Alura. Cada curso concluído possui uma pasta própria, seja ele parte de uma formação ou um curso individual. Dentro de cada pasta, estão registrados os códigos desenvolvidos, as tarefas realizadas e os projetos propostos, com o máximo de detalhamento possível.
 
 ## 📘 01. Formação: A partir do zero: iniciante em programação
 
