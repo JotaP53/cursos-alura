@@ -2,7 +2,7 @@
 
 Este repositório tem como objetivo documentar meu progresso nos estudos por meio dos cursos da Alura. Cada curso concluído possui uma pasta própria, seja ele parte de uma formação ou um curso individual. Dentro de cada pasta, estão registrados os códigos desenvolvidos, as tarefas realizadas e os projetos propostos, com o máximo de detalhamento possível.
 
-## 📘 01. Formação: A partir do zero: iniciante em programação
+## 📘 01. [Formação] A partir do zero: iniciante em programação
 
 Nesta formação, dei meus primeiros passos no desenvolvimento de software. Aprendi lógica de programação com JavaScript, construindo uma base sólida para resolver problemas computacionais. Também explorei o uso do GitHub, essencial para versionar códigos e colaborar em projetos.
 
