@@ -1,9 +1,10 @@
 alert('Boas vindas ao jogo do número secreto.');
-let numeroSecreto = 5;
-let chute  = prompt('Escolha um número entre 1 e 10.');
+let numeroSecreto = 75;
+let chute = prompt('Escolha um número entre 1 e 100.');
 
 if (numeroSecreto == chute) {
-    console.log("Você acertou o número secreto (5).")
+    // Essa característica abaixo é o TemplateString. Ele só funciona com a crase (` `)
+    alert(`Você acertou o número secreto ${numeroSecreto}.`)
 } else {
-    alert("Você errou.")
+    alert('Você errou.')
 }
